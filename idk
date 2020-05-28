@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+  <html>
+    <head>
+    <title></title>
+    <link rel="stylesheet" href="css/style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@600&family=Playfair+Display+SC:wght@400;700&family=Rock+Salt&display=swap" rel="stylesheet">
+
+    </head>
+  <body>
+<!-- Navigation Starts Here -->
+<ul id="navbar">
+  <li><a class="active" href="index.html">HOME</a></li>
+  <li><a href="about.html">ABOUT</a></li>
+  <li><a href="projects.html">PROJECTS</a></li>
+  <li><a href="contact.html">CONTACT</a></li>
+
+  <img src="logos/Sword_web-04.png" "width=80 height=60">;
+  </ul>
+
+
+
+<div class="banner">
+<img src="logos/Sword_web-04.png" class="center">;
+
+</div>
+
+
+<!-- Comment starts here -->
+
+<div class="bigbox">
+
+    <h1> This is a header</h1>
+    <p> This is a paragraph</p>
+
+    <ul>
+      <li>LOVE</li>
+      <li>COURAGE</li>
+      <li>DETERMINATION</li>
+    </ul>
+
+
+    <ol type="a">
+      <li>LOVE</li>
+      <li>COURAGE</li>
+      <li>DETERMINATION</li>
+    </ol>
+
+</div>
+  </body>
+  </html>
